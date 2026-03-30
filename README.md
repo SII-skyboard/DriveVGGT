@@ -1,6 +1,5 @@
-# DriveVGGT
+# DriveVGGT: Calibration-Constrained Visual Geometry Transformers for Multi-Camera Autonomous Driving
 
-**DriveVGGT** adapts [VGGT](https://github.com/facebookresearch/vggt) for autonomous driving scenes using the nuScenes dataset. It supports multi-view camera inputs (6 cameras) with aggregated LiDAR depth supervision, and provides pipelines for data preparation, training, evaluation, and interactive 3D visualization.
 
 ---
 
