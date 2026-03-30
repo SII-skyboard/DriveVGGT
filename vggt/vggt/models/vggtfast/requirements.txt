@@ -1,0 +1,17 @@
+torch==2.3.1
+torchvision==0.18.1
+numpy==1.26.1
+Pillow
+huggingface_hub
+einops
+safetensors
+evo
+open3d
+matplotlib
+scipy
+opencv-python
+scikit-image
+tqdm
+trimesh
+pycolmap==3.10.0
+pyceres
