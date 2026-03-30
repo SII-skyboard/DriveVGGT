@@ -329,8 +329,8 @@ If you use this project, please consider citing the following paper:
 
 ```bibtex
 @article{jia2025drivevggt,
-  title={DriveVGGT: Visual Geometry Transformer for Autonomous Driving},
-  author={Jia, Xiaosong and Liu, Yanhao and You, Junqi and Xia, Renqiu and Hong, Yu and Yan, Junchi},
+  title={DriveVGGT: Calibration-Constrained Visual Geometry Transformers for Multi-Camera Autonomous Driving},
+  author={Jia, Xiaosong and Liu, Yanhao and Hong, Yu and Xia, Renqiu and You, Junqi and Sun, Bin and Hao, Zhihui and Yan, Junchi},
   journal={arXiv preprint arXiv:2511.22264},
   year={2025}
 }
